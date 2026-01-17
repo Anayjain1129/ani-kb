@@ -1,5 +1,5 @@
 # Ani-keeb
-![image](images/bruh4.png)
+![image](images/complete.png)
 
 ### Why did I make it?
 It was a project of blueprint but i just never completed it. and like i almost went offline from hackclub then i heard about Reboot. that's why i built it and completed it.
